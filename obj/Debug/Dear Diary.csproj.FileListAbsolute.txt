@@ -1,0 +1,119 @@
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Dear Diary.exe.config
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\ConsoleControl.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\EasyTabs.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Fizzler.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Svg.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.User32.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\ConsoleControl.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\EasyTabs.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Renci.SshNet.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Svg.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear Diary.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear_Diary.Form1.resources
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear_Diary.Properties.Resources.resources
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear Diary.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear Diary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\C# Test\Dear Diary,\obj\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear_Diary.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear_Diary.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Dear Diary.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ConsoleControl.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\EasyTabs.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Fizzler.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ScintillaNET.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Svg.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.User32.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ConsoleControl.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\EasyTabs.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Renci.SshNet.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\ScintillaNET.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Svg.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Dear Diary,\obj\Debug\Dear Diary.csproj.CopyComplete
